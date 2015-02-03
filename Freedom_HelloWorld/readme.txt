@@ -15,12 +15,14 @@ Features:
 	(2) "Green*\n" - returns "Okayg*\r\n"
 	(3) "Off*\n" - returns "Okayo*\r\n"
 	(4) Any other string - returns "Okayo*\r\n"
+
 Toolchain: 
-- CodeWarrior for MCU10.3
+- CodeWarrior for MCU10.6
 
 Components:
-- LED
-- Wait
+- Serial_LDD
+- RingBuffer
+- BitIO_LDD
 
 More information: http://mcuoneclipse.wordpress.com/:
 - http://mcuoneclipse.com/2012/10/14/tutorial-printf-and-hello-world-with-the-freedom-kl25z-board/
