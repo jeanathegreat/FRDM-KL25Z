@@ -1,0 +1,82 @@
+<CodeGenerationInfo>
+  <ToolchainSettings>
+    <option>
+      <name>PE_G_4PEx_ToolChain_Compiler_SearchUserPaths</name>
+      <values lines_count="4">
+        <Line>"${ProcessorExpertPath}/lib/Kinetis/pdd/inc"</Line>
+        <Line>"${ProcessorExpertPath}/lib/Kinetis/iofiles"</Line>
+        <Line>"${ProjDirPath}/Sources"</Line>
+        <Line>"${ProjDirPath}/Generated_Code"</Line>
+      </values>
+    </option>
+  </ToolchainSettings>
+  <GeneratedFilesList>
+    <GeneratedByPE>
+      <File Name="Generated_Code/BUTTON.h" FileDate="2015-02-06, 00:21:45" FileAge="1423153305383" FileType="45637" CompNumb="75" />
+      <File Name="Generated_Code/WAIT1.h" FileDate="2015-02-02, 23:42:11" FileAge="1422891731978" FileType="45637" CompNumb="13" />
+      <File Name="Static_Code/PDD/DMA_PDD.h" FileDate="2014-02-20, 13:18:46" FileAge="1392873526000" FileType="262144" />
+      <File Name="Static_Code/PDD/ADC_PDD.h" FileDate="2014-02-20, 13:18:46" FileAge="1392873526000" FileType="262144" />
+      <File Name="Generated_Code/BUTTON.c" FileDate="2015-02-06, 00:21:45" FileAge="1423153305389" FileType="45637" CompNumb="75" />
+      <File Name="Documentation/doxygen/IRtrial.txt" FileDate="2015-02-06, 00:21:45" FileAge="1423153305472" FileType="45637" CompNumb="2" />
+      <File Name="Generated_Code/PE_LDD.h" FileDate="2015-02-06, 00:21:45" FileAge="1423153305477" FileType="45637" CompNumb="2" />
+      <File Name="Static_Code/PDD/PORT_PDD.h" FileDate="2014-02-20, 13:18:46" FileAge="1392873526000" FileType="262144" />
+      <File Name="Generated_Code/WAIT1.c" FileDate="2015-02-02, 23:42:12" FileAge="1422891732007" FileType="45637" CompNumb="13" />
+      <File Name="Static_Code/PDD/DAC_PDD.h" FileDate="2014-02-20, 13:18:46" FileAge="1392873526000" FileType="262144" />
+      <File Name="Static_Code/PDD/MCM_PDD.h" FileDate="2014-02-20, 13:18:46" FileAge="1392873526000" FileType="262144" />
+      <File Name="Generated_Code/PE_LDD.c" FileDate="2015-02-05, 18:15:44" FileAge="1423131344548" FileType="45637" CompNumb="2" />
+      <File Name="Static_Code/PDD/TPM_PDD.h" FileDate="2014-02-20, 13:18:46" FileAge="1392873526000" FileType="262144" />
+      <File Name="Static_Code/PDD/FTFA_PDD.h" FileDate="2014-02-20, 13:18:46" FileAge="1392873526000" FileType="262144" />
+      <File Name="Static_Code/PDD/SIM_PDD.h" FileDate="2014-02-20, 13:18:46" FileAge="1392873526000" FileType="262144" />
+      <File Name="Static_Code/PDD/UART_PDD.h" FileDate="2014-02-20, 13:18:46" FileAge="1392873526000" FileType="262144" />
+      <File Name="Documentation/doxygen/ACTUATOR2.txt" FileDate="2015-02-04, 01:17:41" FileAge="1422983861352" FileType="45637" CompNumb="65" />
+      <File Name="Sources/main.c" FileDate="2015-02-17, 05:37:14" FileAge="1424122634081" FileType="128" />
+      <File Name="Static_Code/PDD/DMAMUX_PDD.h" FileDate="2014-02-20, 13:18:46" FileAge="1392873526000" FileType="262144" />
+      <File Name="Documentation/IRtrial_SIGNALS.txt" FileDate="2015-02-18, 12:18:28" FileAge="1424233108301" FileType="3072" />
+      <File Name="Documentation/IRtrial_Settings.xml" FileDate="2015-02-06, 00:21:46" FileAge="1423153306326" FileType="3072" />
+      <File Name="Documentation/doxygen/pex.css" FileDate="2014-12-10, 00:40:12" FileAge="1418143212929" FileType="16384" CompNumb="2" />
+      <File Name="Static_Code/PDD/LPTMR_PDD.h" FileDate="2014-02-20, 13:18:46" FileAge="1392873526000" FileType="262144" />
+      <File Name="Generated_Code/PE_Const.h" FileDate="2014-12-10, 00:40:13" FileAge="1418143213247" FileType="45637" />
+      <File Name="Generated_Code/PE_Types.h" FileDate="2015-02-06, 00:21:45" FileAge="1423153305454" FileType="45637" />
+      <File Name="Documentation/doxygen/ACTUATOR1.txt" FileDate="2015-02-04, 01:17:41" FileAge="1422983861320" FileType="45637" CompNumb="66" />
+      <File Name="Generated_Code/PE_Error.h" FileDate="2014-12-10, 00:40:13" FileAge="1418143213262" FileType="45637" />
+      <File Name="Sources/Events.h" FileDate="2015-02-06, 00:21:45" FileAge="1423153305487" FileType="131328" />
+      <File Name="Sources/Events.c" FileDate="2015-02-04, 00:41:33" FileAge="1422981693512" FileType="131328" />
+      <File Name="Documentation/doxygen/pex.doxyfile" FileDate="2014-12-10, 00:40:13" FileAge="1418143213216" FileType="45637" CompNumb="2" />
+      <File Name="Static_Code/PDD/I2C_PDD.h" FileDate="2014-02-20, 13:18:46" FileAge="1392873526000" FileType="262144" />
+      <File Name="Static_Code/PDD/RTC_PDD.h" FileDate="2014-02-20, 13:18:46" FileAge="1392873526000" FileType="262144" />
+      <File Name="Project_Settings/Linker_Files/ProcessorExpert.ld" FileDate="2014-12-10, 00:40:13" FileAge="1418143213169" FileType="8" CompNumb="2" />
+      <File Name="Documentation/doxygen/IRsensor.txt" FileDate="2015-02-04, 00:32:48" FileAge="1422981168136" FileType="45637" CompNumb="6" />
+      <File Name="Documentation/IRtrial.txt" FileDate="2015-02-06, 00:21:46" FileAge="1423153306372" FileType="3072" />
+      <File Name="Documentation/doxygen/SERVO2.txt" FileDate="2015-02-04, 00:15:34" FileAge="1422980134108" FileType="45637" CompNumb="56" />
+      <File Name="Generated_Code/IO_Map.h" FileDate="2014-12-10, 00:40:13" FileAge="1418143213247" FileType="45637" />
+      <File Name="Static_Code/PDD/SysTick_PDD.h" FileDate="2014-02-20, 13:18:46" FileAge="1392873526000" FileType="262144" />
+      <File Name="Static_Code/PDD/CMP_PDD.h" FileDate="2014-02-20, 13:18:46" FileAge="1392873526000" FileType="262144" />
+      <File Name="Documentation/doxygen/BUTTON.txt" FileDate="2015-02-06, 00:21:45" FileAge="1423153305447" FileType="45637" CompNumb="75" />
+      <File Name="Static_Code/PDD/SPI_PDD.h" FileDate="2014-02-20, 13:18:46" FileAge="1392873526000" FileType="262144" />
+      <File Name="Generated_Code/SERVO2.h" FileDate="2015-02-04, 00:15:34" FileAge="1422980134118" FileType="45637" CompNumb="56" />
+      <File Name="Generated_Code/ACTUATOR2.h" FileDate="2015-02-04, 01:17:41" FileAge="1422983861342" FileType="45637" CompNumb="65" />
+      <File Name="Generated_Code/SERVO2.c" FileDate="2015-02-04, 00:15:34" FileAge="1422980134200" FileType="45637" CompNumb="56" />
+      <File Name="Project_Settings/Debugger/MKL25Z128.mem" FileDate="2014-12-10, 00:40:13" FileAge="1418143213200" FileType="45637" CompNumb="2" />
+      <File Name="Static_Code/PDD/USB_PDD.h" FileDate="2014-02-20, 13:18:46" FileAge="1392873526000" FileType="262144" />
+      <File Name="Static_Code/PDD/UART0_PDD.h" FileDate="2014-02-20, 13:18:46" FileAge="1392873526000" FileType="262144" />
+      <File Name="Generated_Code/Cpu.h" FileDate="2015-02-02, 23:42:12" FileAge="1422891732033" FileType="45637" CompNumb="2" />
+      <File Name="Generated_Code/ACTUATOR2.c" FileDate="2015-02-04, 01:17:41" FileAge="1422983861301" FileType="45637" CompNumb="65" />
+      <File Name="Generated_Code/IRsensor.h" FileDate="2015-02-04, 00:07:25" FileAge="1422979645249" FileType="45637" CompNumb="6" />
+      <File Name="Generated_Code/SERVO1.h" FileDate="2015-02-04, 00:15:34" FileAge="1422980134224" FileType="45637" CompNumb="55" />
+      <File Name="Static_Code/PDD/COP_PDD.h" FileDate="2014-02-20, 13:18:46" FileAge="1392873526000" FileType="262144" />
+      <File Name="Generated_Code/Cpu.c" FileDate="2015-02-06, 00:21:45" FileAge="1423153305466" FileType="45637" CompNumb="2" />
+      <File Name="Generated_Code/ACTUATOR1.h" FileDate="2015-02-04, 01:17:41" FileAge="1422983861314" FileType="45637" CompNumb="66" />
+      <File Name="Generated_Code/IRsensor.c" FileDate="2015-02-04, 00:07:25" FileAge="1422979645278" FileType="45637" CompNumb="6" />
+      <File Name="Documentation/doxygen/RoutingReport.txt" FileDate="2014-12-10, 00:40:13" FileAge="1418143213216" FileType="45637" CompNumb="2" />
+      <File Name="Generated_Code/SERVO1.c" FileDate="2015-02-04, 00:15:34" FileAge="1422980134230" FileType="45637" CompNumb="55" />
+      <File Name="Static_Code/IO_Map/MKL25Z4.h" FileDate="2013-04-18, 00:55:42" FileAge="1366217742000" FileType="262144" />
+      <File Name="Static_Code/PDD/PDD_Types.h" FileDate="2013-04-18, 00:55:42" FileAge="1366217742000" FileType="262144" />
+      <File Name="Generated_Code/ACTUATOR1.c" FileDate="2015-02-04, 01:17:41" FileAge="1422983861307" FileType="45637" CompNumb="66" />
+      <File Name="Generated_Code/Vectors.c" FileDate="2015-02-06, 00:21:45" FileAge="1423153305482" FileType="45637" CompNumb="2" />
+      <File Name="Static_Code/PDD/PIT_PDD.h" FileDate="2014-02-20, 13:18:46" FileAge="1392873526000" FileType="262144" />
+      <File Name="Documentation/doxygen/SERVO1.txt" FileDate="2015-02-04, 00:32:48" FileAge="1422981168146" FileType="45637" CompNumb="55" />
+      <File Name="Static_Code/PDD/GPIO_PDD.h" FileDate="2014-02-20, 13:18:46" FileAge="1392873526000" FileType="262144" />
+    </GeneratedByPE>
+  </GeneratedFilesList>
+  <CodeGenReference>94</CodeGenReference>
+</CodeGenerationInfo>
